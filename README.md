@@ -30,7 +30,7 @@ This basic script is a fun way to understand how encryption and mapping work at 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Sepehr-khosravi/simple-algorithm-encrypt-text
 Run the script using Python 3:
 
 bash
